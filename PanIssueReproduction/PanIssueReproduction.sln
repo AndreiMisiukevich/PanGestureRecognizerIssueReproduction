@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanIssueReproduction.Android", "PanIssueReproduction.Android\PanIssueReproduction.Android.csproj", "{2BEB334A-803C-4AE6-94C8-F449FF4EE7C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanIssueReproduction", "PanIssueReproduction\PanIssueReproduction.csproj", "{DBCB6DD7-B99B-48BE-A518-2E15DC3B5674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BEB334A-803C-4AE6-94C8-F449FF4EE7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEB334A-803C-4AE6-94C8-F449FF4EE7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEB334A-803C-4AE6-94C8-F449FF4EE7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEB334A-803C-4AE6-94C8-F449FF4EE7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCB6DD7-B99B-48BE-A518-2E15DC3B5674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCB6DD7-B99B-48BE-A518-2E15DC3B5674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCB6DD7-B99B-48BE-A518-2E15DC3B5674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCB6DD7-B99B-48BE-A518-2E15DC3B5674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
